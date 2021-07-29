@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap");
+
+body {
+  font-family: "Ubuntu", sans-serif;
+}
+
+.hero-bg-section {
+  background-color: #163343;
+}
+
+.btn-custom {
+  background-color: #e76f51;
+  padding-left: 30px !important;
+  padding-right: 30px !important;
+}
+
+.custom-heading-text {
+  font-size: 2.8rem;
+}
+
+.header-bike {
+  width: 100%;
+}
+
+.custom-sub-header {
+  color: #e76f51;
+}
+
+.feature-bike {
+  width: 100%;
+}
+
+.greyscale-img {
+  filter: grayscale(100%);
+}
+
+.user-img {
+  width: 65%;
+}
+
+.star-icon {
+  color: #e76f51;
+}
+
+.accordion-custom-width {
+  width: 90%;
+}
+
+.helmet-img {
+  width: 70%;
+}
+
+.dealer-section {
+  border-radius: 10px;
+  height: 300px;
+  margin-top: 40px;
+  background-image: url(images/dealer_banner.jpg);
+}
+
+.dealer-flex {
+  height: 300px;
+}
+
+.custom-footer {
+  height: 380px;
+}
